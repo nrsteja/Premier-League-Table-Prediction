@@ -3,9 +3,9 @@
 ## README:
 
 Contributors: 
-#### Tejeswara Nehru (U2220197K)
-#### Michael Santoso (U2221525L)
-#### Nguyen Tien Dat (John) (U2220949L)
+#### Tejeswara Nehru (U2220197K) - Exploratory Data Analysis, Linear Regression
+#### Michael Santoso (U2221525L) - Neural Network Model
+#### Nguyen Tien Dat (John) (U2220949L) - Random Forest Regression
 
 
 ### About:
