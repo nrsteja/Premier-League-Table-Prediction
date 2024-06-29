@@ -1,4 +1,6 @@
 # Premier-League-Table-Prediction
+## Video Walkthrough
+https://youtu.be/5X2Aj6Evjow
 
 ## README:
 
@@ -6,7 +8,6 @@ Contributors:
 #### Tejeswara Nehru (U2220197K) - Exploratory Data Analysis, Q1, Linear Regression
 #### Michael Santoso (U2221525L) - Insights and Outcomes, Q2, Neural Network Model
 #### Nguyen Tien Dat (John) (U2220949L) - Motivation, Q3, Random Forest Regression
-
 
 ### About:
 Contained within are the source codes for our SC1015 (Introduction to Data Science and Artificial Intelligence) Mini-Project. Our mini-project aims to investigate the factors which contribute to a team’s performance in terms of winning and losing games and use ML models to predict future matches based on past matches. Our personal objective from this project is to predict the top 6 teams going into the Champions League (for top 4 teams) and Europa league (5th and 6th teams)
